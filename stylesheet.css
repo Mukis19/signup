@@ -1,0 +1,72 @@
+header{
+    background-color: green;
+    text-align: center;
+    color: white;
+    border-style: outset;
+    }
+    section{
+    text-align: center;
+    background-image: url(constructionbackground.jpeg);
+    }
+    ul{
+    text-align: left;}
+    
+    .services{
+    background-color: lightgrey;
+    width: 500px;
+    border: 10px solid green;
+    padding: 60px;
+    float: left;
+    }
+    
+    .left{
+    background-color: lightgrey;
+    width: 500px;
+    float: right;}
+    
+    footer{
+    text-align: center;
+    color: white;
+    background-color: black;}
+    
+    ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: grey;
+    opacity: 0.8;
+    }
+    li.list{
+    float: left;}
+    li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    }
+    li a:hover {
+    background-color: black;
+    color: white;}
+    
+    .menu {
+    width: 720px;
+    border: 2px solid grey;
+    }
+    
+    .style {
+    width: 180px;
+    border: 2px solid grey;
+    }
+    table {
+    text-align: center;
+    background-color: green;
+    padding: 10px;
+    }
+    .form {
+    text-align: left;}
+    .personel {
+    text-align: left;}
+    
+    
